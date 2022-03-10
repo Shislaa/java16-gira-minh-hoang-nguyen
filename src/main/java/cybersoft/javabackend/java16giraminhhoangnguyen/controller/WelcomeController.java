@@ -8,6 +8,6 @@ public class WelcomeController {
 
 		@GetMapping
 		public Object welcome() {
-			return "Hilu các bạn :3";
+			return "Hilu :3";
 		}
 }
